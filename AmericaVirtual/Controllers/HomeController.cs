@@ -11,7 +11,7 @@ namespace AmericaVirtual.Controllers
         public ActionResult Index()
         {
             return View();
-        }
+        } 
 
      
     }
